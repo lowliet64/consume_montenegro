@@ -1,0 +1,14 @@
+{
+    "name": "nome",
+    "code": "id",
+    "company_code": "codigo",
+    "company_status": "status",
+    "company_social_reason": "razao_social",
+    "company_inscription_type": "tipo_inscricao",
+    "company_cpf_cnpj": "inscricao",
+    "group_event": "grupo_rubrica",
+    "type": "tipo",
+    "unity": "tipo_unidade",
+    "event_code": "code",
+    "items": "rubricas"
+}
